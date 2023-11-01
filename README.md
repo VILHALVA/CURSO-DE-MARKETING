@@ -2,6 +2,7 @@
 👨‍⚖️MARKETING É O CONJUNTO DE ESTRATÉGIAS E AÇÕES QUE UMA EMPRESA UTILIZA PARA PROMOVER SEUS PRODUTOS OU SERVIÇOS, IDENTIFICAR E SATISFAZER AS NECESSIDADES DOS CLIENTES, E ALCANÇAR SEUS OBJETIVOS DE VENDAS E LUCRATIVIDADE.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=MARKETING)
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dmmqFmLT17KMjoaE0Y4LqRv&si=nRmet6xFanJO1L0A)
 
