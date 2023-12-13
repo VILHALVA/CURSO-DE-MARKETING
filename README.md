@@ -32,3 +32,33 @@ Aqui estão alguns elementos-chave do conceito de marketing:
 8. **Evolução Contínua:** O marketing é uma disciplina em constante evolução devido às mudanças nas tecnologias, no comportamento do consumidor e nas tendências de mercado. Profissionais de marketing precisam se manter atualizados e adaptar suas estratégias de acordo.
 
 Em resumo, o marketing é uma disciplina multifacetada que se concentra em criar valor para os clientes, promover produtos ou serviços e construir relacionamentos sólidos, e é essencial para o sucesso de qualquer empresa ou organização.
+
+O marketing é uma disciplina ampla que abrange atividades destinadas a promover produtos, serviços ou marcas, com o objetivo de atrair, conquistar e manter clientes. Aqui estão algumas características do marketing:
+
+# CARACTERÍSTICAS:
+## POSITIVAS:
+- **Conhecimento do Público-Alvo:** Marketing envolve entender o público-alvo, suas necessidades, preferências e comportamentos para criar estratégias mais eficazes.
+
+- **Criação de Valor:** Foco na criação de valor para os clientes, destacando os benefícios dos produtos ou serviços oferecidos.
+
+- **Estratégia de Comunicação:** Desenvolvimento de estratégias de comunicação persuasivas para atrair a atenção do público e influenciar suas decisões de compra.
+
+- **Adaptação às Mudanças:** Marketing é dinâmico e requer adaptação contínua às mudanças nas tendências de mercado, tecnologias e preferências do consumidor.
+
+- **Concorrência Saudável:** Estimula a concorrência saudável, incentivando as empresas a melhorarem seus produtos e serviços para ganhar a preferência do consumidor.
+
+- **Medição de Resultados:** Utilização de métricas e análise de dados para medir o desempenho das campanhas e ajustar estratégias conforme necessário.
+
+## NEGATIVAS:
+- **Manipulação de Percepção:** Algumas estratégias de marketing podem envolver a manipulação da percepção do consumidor, levantando questões éticas.
+
+- **Saturação de Mensagens:** Em um mundo onde as mensagens de marketing são abundantes, os consumidores podem se tornar saturados e desenvolver resistência à publicidade.
+
+- **Ênfase Excessiva na Venda:** Algumas abordagens de marketing podem se concentrar excessivamente nas vendas imediatas, em detrimento do relacionamento a longo prazo com o cliente.
+
+- **Impacto Ambiental:** A produção em massa e a promoção de produtos podem ter um impacto negativo no meio ambiente, levantando preocupações sobre a sustentabilidade.
+
+- **Desigualdades de Acesso:** Nem todas as empresas têm recursos iguais para investir em estratégias de marketing, o que pode contribuir para desigualdades no mercado.
+
+- **Desperdício de Recursos:** Algumas campanhas de marketing podem resultar em desperdício de recursos se não forem eficazes ou se não estiverem alinhadas com os valores do público-alvo.
+
