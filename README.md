@@ -2,13 +2,7 @@
 👨‍⚖️MARKETING É O CONJUNTO DE ESTRATÉGIAS E AÇÕES QUE UMA EMPRESA UTILIZA PARA PROMOVER SEUS PRODUTOS OU SERVIÇOS, IDENTIFICAR E SATISFAZER AS NECESSIDADES DOS CLIENTES, E ALCANÇAR SEUS OBJETIVOS DE VENDAS E LUCRATIVIDADE.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=MARKETING)
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dmmqFmLT17KMjoaE0Y4LqRv&si=nRmet6xFanJO1L0A)
-
-<img src="https://www.zohowebstatic.com/sites/zweb/images/marketingplus/images/mp_dm_concept_banner_1x.png" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 Marketing é um conjunto de estratégias e práticas que as empresas utilizam para promover e vender produtos ou serviços, bem como construir relacionamentos sólidos com seus clientes. O objetivo fundamental do marketing é entender as necessidades e desejos dos clientes e atendê-los de maneira lucrativa.
