@@ -1,10 +1,9 @@
 # CURSO DE MARKETING
 👨‍⚖️MARKETING É O CONJUNTO DE ESTRATÉGIAS E AÇÕES QUE UMA EMPRESA UTILIZA PARA PROMOVER SEUS PRODUTOS OU SERVIÇOS, IDENTIFICAR E SATISFAZER AS NECESSIDADES DOS CLIENTES, E ALCANÇAR SEUS OBJETIVOS DE VENDAS E LUCRATIVIDADE.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dmmqFmLT17KMjoaE0Y4LqRv&si=nRmet6xFanJO1L0A)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 Marketing é um conjunto de estratégias e práticas que as empresas utilizam para promover e vender produtos ou serviços, bem como construir relacionamentos sólidos com seus clientes. O objetivo fundamental do marketing é entender as necessidades e desejos dos clientes e atendê-los de maneira lucrativa.
 
 Aqui estão alguns elementos-chave do conceito de marketing:
@@ -29,8 +28,8 @@ Em resumo, o marketing é uma disciplina multifacetada que se concentra em criar
 
 O marketing é uma disciplina ampla que abrange atividades destinadas a promover produtos, serviços ou marcas, com o objetivo de atrair, conquistar e manter clientes. Aqui estão algumas características do marketing:
 
-# CARACTERÍSTICAS:
-## POSITIVAS:
+## CARACTERÍSTICAS:
+### POSITIVAS:
 - **Conhecimento do Público-Alvo:** Marketing envolve entender o público-alvo, suas necessidades, preferências e comportamentos para criar estratégias mais eficazes.
 
 - **Criação de Valor:** Foco na criação de valor para os clientes, destacando os benefícios dos produtos ou serviços oferecidos.
@@ -43,7 +42,7 @@ O marketing é uma disciplina ampla que abrange atividades destinadas a promover
 
 - **Medição de Resultados:** Utilização de métricas e análise de dados para medir o desempenho das campanhas e ajustar estratégias conforme necessário.
 
-## NEGATIVAS:
+### NEGATIVAS:
 - **Manipulação de Percepção:** Algumas estratégias de marketing podem envolver a manipulação da percepção do consumidor, levantando questões éticas.
 
 - **Saturação de Mensagens:** Em um mundo onde as mensagens de marketing são abundantes, os consumidores podem se tornar saturados e desenvolver resistência à publicidade.
@@ -55,4 +54,9 @@ O marketing é uma disciplina ampla que abrange atividades destinadas a promover
 - **Desigualdades de Acesso:** Nem todas as empresas têm recursos iguais para investir em estratégias de marketing, o que pode contribuir para desigualdades no mercado.
 
 - **Desperdício de Recursos:** Algumas campanhas de marketing podem resultar em desperdício de recursos se não forem eficazes ou se não estiverem alinhadas com os valores do público-alvo.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dmmqFmLT17KMjoaE0Y4LqRv&si=nRmet6xFanJO1L0A)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+
 
